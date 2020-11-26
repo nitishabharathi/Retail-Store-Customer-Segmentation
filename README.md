@@ -1,1 +1,1 @@
-# E-Commerce-Customer-Segmentation
+# Retail Store Customer Segmentation
